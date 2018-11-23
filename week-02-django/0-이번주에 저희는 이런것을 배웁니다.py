@@ -9,7 +9,7 @@
 
 # 웹 프레임워크가 보통 하는 일
  1) Model
- 2) Controller는 장고에서는 view는
+ 2) Controller는 장고에서는 view, 
  3) View 는 장고에서는 Template
 -->  이것을 보통 MVC 패턴이라고 부른다.
 
@@ -31,5 +31,5 @@
 ---> 그래서 가능한 서버에 무리가 가지 않는 선에서 사용자 정보를 보낼 수 있도록!
 
 # 친절한 개발자 씨 (twitter)
-- 부트스트랩: CSS, Javascript 내용 
+- 부트스트랩: CSS, Javascript 내용
 - 폰트어썸 font awesome: 예쁜 아이콘
